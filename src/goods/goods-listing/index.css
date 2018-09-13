@@ -1,0 +1,7 @@
+.ProductListing{
+    width: 550px;
+    margin: auto;
+    text-align: center;
+    border: 1px solid black;
+    padding: 25px;
+}

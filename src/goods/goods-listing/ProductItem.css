@@ -1,0 +1,45 @@
+.ProductItem{
+    width: 250px;
+    display: inline-block;
+    vertical-align: top;
+}
+.ProductItem h3{
+    font-size: 18px;
+}
+.ProductItem img{
+    width:90%;
+}
+.imageDiv{
+    height:300px;
+}
+.btnAdd button{
+    transition: 0.3s;
+    padding: 15px 25px;
+    text-transform: uppercase;
+    background: #0056A4;
+    color: #ffffff;
+    outline: none;
+    box-shadow: none;
+    border: 1px solid #0056A4;
+}
+.btnAdd button:active,
+.btnAdd button:focus{
+    outline: none;
+    box-shadow: none;
+    border: 1px solid #0056A4;
+}
+.btnAdd button:hover{
+    color: #000000;
+    background: white;
+}
+.btnAdd button.btnRemove{
+    background: #eeeeee;
+    font-size: 12px;
+    padding: 6px;
+    color: black;
+    border: 1px solid gray;
+}
+.btnAdd button.btnRemoveDisAble{
+    display: none;
+
+}

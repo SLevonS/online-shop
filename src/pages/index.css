@@ -1,0 +1,18 @@
+.Cart{
+    text-align: center;
+}
+.Cart table{
+    margin: auto;
+}
+.Cart button{
+    transition: 0.3s;
+    background: #0056A4;
+    color: white;
+    outline: none;
+    box-shadow: none;
+    border: 1px solid #0056A4
+}
+.Cart button:hover{
+    color: #000000;
+    background: white;
+}

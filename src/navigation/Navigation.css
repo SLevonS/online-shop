@@ -1,0 +1,15 @@
+.nav li{
+    display: inline-block;
+    vertical-align: middle;
+    border: 1px solid lightgreen;
+    margin: 0 10px;
+}
+.nav li a{
+    padding: 5px 10px;
+    text-decoration: none;
+    display: block;
+}
+.nav li a:hover{
+    background: #000;
+    color: white;
+}

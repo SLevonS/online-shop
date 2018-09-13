@@ -1,0 +1,18 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Teapot",
+      "description": "Glass Teapot with Infuser",
+      "image": "teapot.jpg",
+      "price": 33.99
+    },
+    {
+      "id": 2,
+      "name": "Teacup",
+      "description": "Wedgwood ( Wedgwood ) Harlequin tea - cup u0026 saucer Heart [ parallel import goods ]",
+      "image": "teacup.jpg",
+      "price": 39.99
+    }
+  ]
+}
